@@ -1,21 +1,22 @@
 # Hi, I'm Mohamed Hassan 👋
 
-### Frontend Developer | React | JavaScript
+### Full-Stack Web Developer | React | JavaScript | PHP
 
-I build modern, responsive web experiences with a focus on clean UI, practical functionality, and smooth user experiences.
+I build modern web applications from the interface to the backend, with a focus on clean UI, practical functionality, and real-world problem solving.
 
-I'm currently focused on improving my frontend development skills through real-world projects and building applications that solve practical problems.
+I enjoy working across the full development process — building responsive frontend experiences, designing backend logic and APIs, connecting applications to databases, and turning ideas into working products.
 
 ---
 
 ## 🚀 What I Do
 
-- 🎨 Build responsive and modern user interfaces
-- ⚛️ Develop frontend applications with React
-- 🧩 Create interactive experiences with JavaScript
-- 📱 Focus on responsive design and usability
+- 🎨 Build modern, responsive user interfaces
+- ⚛️ Develop frontend applications with React and JavaScript
+- 🧩 Build backend functionality and APIs with PHP
+- 🗄️ Work with databases and CRUD-based systems
+- 🔐 Implement authentication and application logic
+- 🔗 Connect frontend applications with backend services
 - 🔧 Build practical projects from idea to implementation
-- 📚 Continuously learn and improve through real projects
 
 ---
 
@@ -27,6 +28,15 @@ I'm currently focused on improving my frontend development skills through real-w
 - JavaScript
 - React
 - TypeScript
+
+**Backend**
+- PHP
+- Laravel
+- REST APIs
+- PDO
+
+**Database**
+- MySQL
 
 **Tools**
 - Git
@@ -45,8 +55,9 @@ I'm currently organizing my projects and improving their documentation. More pro
 ## 🎯 Currently Learning
 
 - Advanced React
-- Modern frontend architecture
+- Laravel and backend development
 - TypeScript
+- API design and integration
 - Building scalable and maintainable web applications
 - Better UI/UX implementation
 
@@ -58,4 +69,4 @@ I'm currently organizing my projects and improving their documentation. More pro
 
 ---
 
-### ⚡ Always building. Always learning.
+### ⚡ Building. Learning. Improving.
